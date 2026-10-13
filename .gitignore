@@ -1,0 +1,27 @@
+# Build artifacts
+build/
+dist/
+*.spec
+*.exe
+*.msi
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE / editors
+.vscode/
+.idea/
+*.swp
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Local-only files
+*.log
+local.ini
